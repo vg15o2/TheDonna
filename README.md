@@ -26,7 +26,9 @@ This code implements a voice-based chatbot using the following components:
   Contains API keys for Mistral and Azure Cognitive Services, and specifies the Azure region.
 
 **7.Execution:**
-  The main function orchestrates the workflow:
+
+The main function orchestrates the workflow:
+    
     Records audio.
     Transcribes the recorded audio into text.
     Generates a response based on the text input.
