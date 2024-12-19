@@ -6,6 +6,7 @@ This code implements a voice-based chatbot using the following components:
 **1.Audio Recording:**
   Uses the sounddevice library to record audio from the microphone.
   The recorded audio is processed as a NumPy array.
+  
 **2.Speech-to-Text (ASR):**
   Employs the Whisper model (base version) to transcribe the recorded audio into text.
   The transcription process converts the raw audio input into a string of text.
