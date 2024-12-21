@@ -6,8 +6,8 @@ import sounddevice as sd
 import numpy as np
 
 # Set API keys
-mistral_api_key = "oj5jyAYhEgrjJC125WOqoUy0ej0FKEUm"
-azure_speech_key = "FsCpCblgGdS9fQe0mzcfFgMpB7koOpF5TVEZlongCzYbEqTGBnE3JQQJ99ALACYeBjFXJ3w3AAAYACOGmPxm"
+mistral_api_key = "api-key"
+azure_speech_key = "api-key"
 azure_service_region = "eastus"
 
 # Initialize Mistral client
