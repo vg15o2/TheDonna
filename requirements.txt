@@ -1,6 +1,5 @@
-asyncio
 whisper
-mistral-ai
+mistralai
 azure-cognitiveservices-speech
 sounddevice
 numpy
