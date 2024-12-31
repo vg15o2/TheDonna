@@ -1,0 +1,6 @@
+asyncio
+whisper
+mistral-ai
+azure-cognitiveservices-speech
+sounddevice
+numpy
