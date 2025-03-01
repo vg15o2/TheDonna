@@ -36,6 +36,6 @@ The main function orchestrates the workflow:
 
 **8.Error Handling:**
  Includes basic error handling for response generation and speech synthesis to manage exceptions during runtime.
-
+----
 **Use Case:**
 This program facilitates an interactive voice chatbot that listens to the user, processes the input, generates a contextually relevant reply, and delivers the reply as synthesized speech.
